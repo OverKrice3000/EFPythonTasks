@@ -1,5 +1,5 @@
 # Python Programming Course – Faculty of Economics  
-### Selected Student Tasks
+### Course tasks topics
 
 During this course, students designed their own programming assignments within predefined topic boundaries. Each task was scoped to a specific theme and assigned a difficulty level.
 
@@ -14,8 +14,9 @@ Below is the list of core topics covered:
 7. **Inheritance and Composition of Classes**  
 8. **Debugging and Testing**
 
-> 💡 **Note on Task Selection**  
-> The tasks I included are either original problems from [Codewars](https://www.codewars.com/) or carefully extracted subtasks—created when the full problem was too extensive for a single exercise. All selected challenges emphasize clarity, educational value, and alignment with the corresponding topic.
+### Tasks I designed
+The tasks I included are either original problems from [Codewars](https://www.codewars.com/) or carefully extracted subtasks—created when the full problem was too extensive for a single exercise. All selected challenges emphasize clarity, educational value, and alignment with the corresponding topic.
+
 1\.	\*   [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)  ✓✓  
 	\*\*  [Find Product Partitions With Maximum or Minimum Score](https://www.codewars.com/kata/571dd22c2b97f2ce400010d4) ✓✓  
 	\*\*\* [The Boolean Order](https://www.codewars.com/kata/59eb1e4a0863c7ff7e000008)   ✓✓  
